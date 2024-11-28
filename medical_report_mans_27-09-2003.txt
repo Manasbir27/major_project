@@ -1,0 +1,25 @@
+==================================================
+PATIENT DIAGNOSIS REPORT
+==================================================
+
+PATIENT INFORMATION:
+--------------------
+Name           : mans
+Age            : 21
+Sex            : m
+DOB            : 27/09/2003
+Phone Number   : 96325874566
+Email          : manasbir@gmail.com
+Blood Group    : O+
+Address        : bs
+
+DIAGNOSIS DETAILS:
+--------------------
+Diagnosed Disease  : Peptic ulcer diseae
+Confidence Level  : 33.33%
+
+Identified Symptoms:
+- indigestion
+- abdominal pain
+
+==================================================

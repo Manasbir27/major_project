@@ -1,0 +1,29 @@
+==================================================
+PATIENT DIAGNOSIS REPORT
+==================================================
+
+PATIENT INFORMATION:
+--------------------
+Name           : Manas
+Age            : 21
+Sex            : m
+DOB            : 27/09/2003
+Phone Number   : 9632587415
+Email          : manasbir@gmail.com
+Blood Group    : O+
+Address        : 56
+
+DIAGNOSIS DETAILS:
+--------------------
+Diagnosed Disease  : Gerd
+Confidence Level  : 100.00%
+
+Identified Symptoms:
+- acidity
+- cough
+- stomach pain
+- chest pain
+- vomiting
+- ulcers on tongue
+
+==================================================
